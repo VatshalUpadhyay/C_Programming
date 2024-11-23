@@ -1,3 +1,4 @@
-C Programming
-The Beginning of Coding 
-This is my first Git repository
+#C Programming
+The Beginning of Coding.
+<br>
+This is my first Git repository.
